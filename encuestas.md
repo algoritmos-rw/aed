@@ -6,6 +6,7 @@ Estos son los resultados de las encuestas de cuatrimestres anteriores:
 {: .table .table-striped}
 | Cuatrimestre  |  Enlace  |
 |---------------|----------|
+| 2do 2024      | [Ver](https://docs.google.com/forms/d/1esYsePn_TTpbKH4OMzYd2sxv86giHYA8ESbAmBtWEV4/viewanalytics) |
 | 1ro 2024      | [Ver](https://docs.google.com/forms/d/15pwhM9kpZRYD3nrjy-F8rjuwCgqSVGg6hgu3YM21udU/viewanalytics) |
 | 2do 2023      | [Ver](https://docs.google.com/forms/d/1qeFQS0XENfccaFoEvkZQ7O18mDHaoyf-sbJMe3YIq6A/viewanalytics) |
 | 1ro 2023      | [Ver](https://docs.google.com/forms/d/1Y6aWvMKC2ZDLVUV_QMV-matQD_4zV_2TzPD9kwyMu88/viewanalytics) |

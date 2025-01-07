@@ -25,7 +25,4 @@ crear un issue en [la página de issues del repositorio]({{site.github.repositor
 ## Información sobre próximas clases
 
 Recomendamos revisar el [calendario detallado]({{site.data.cuatrimestre.calendario_detallado}}) de la materia.
-<div>
-  <iframe src="{{site.data.cuatrimestre.calendario_embebido}}" width="100%" height="100%"></iframe>
-</div>
 

@@ -1,59 +1,59 @@
 TP0:
   id: TP0
-  publicacion: 2024-08-22
-  entrega: 2024-09-02
+  publicacion: 2025-03-13
+  entrega: 2025-03-24
   enunciado_link: /tps/tp0
 
 Pila:
   id: Pila
-  publicacion: 2024-09-02
-  entrega: 2024-09-09
+  publicacion: 2025-03-27
+  entrega: 2025-04-03
   enunciado_link: /tps/pila
 
 Cola:
   id: Cola
-  publicacion: 2024-09-09
-  entrega: 2024-09-16
+  publicacion: 2025-04-03
+  entrega: 2025-04-10
   enunciado_link: /tps/cola
 
 TP1:
   id: TP1
-  publicacion: 2024-09-16
-  entrega: 2024-09-26
-  enunciado_link: /tps/2024_2/tp1
+  publicacion: 2025-04-10
+  entrega: 2025-04-21
+  enunciado_link: /tps/2025_1/tp1
 
 Lista:
   id: Lista
-  publicacion: 2024-09-26
-  entrega: 2024-10-03
+  publicacion: 2025-04-21
+  entrega: 2025-04-28
   enunciado_link: /tps/lista
 
 Hash:
   id: Hash
-  publicacion: 2024-10-03
-  entrega: 2024-10-10
+  publicacion: 2025-04-28
+  entrega: 2025-05-05
   enunciado_link: /tps/hash
 
 ABB:
   id: ABB
-  publicacion: 2024-10-10
-  entrega: 2024-10-24
+  publicacion: 2025-05-05
+  entrega: 2025-05-15
   enunciado_link: /tps/abb
 
 Heap:
   id: Heap
-  publicacion: 2024-10-24
-  entrega: 2024-10-31
+  publicacion: 2025-05-15
+  entrega: 2025-05-22
   enunciado_link: /tps/heap
 
 TP2:
   id: TP2
-  publicacion: 2024-10-31
-  entrega: 2024-11-18
-  enunciado_link: /tps/2024_2/tp2
+  publicacion: 2025-05-22
+  entrega: 2025-06-09
+  enunciado_link: /tps/2025_1/tp2
 
 TP3:
   id: TP3
-  publicacion: 2024-11-18
-  entrega: 2024-12-05
-  enunciado_link: /tps/2024_2/tp3
+  publicacion: 2025-06-09
+  entrega: 2025-06-26
+  enunciado_link: /tps/2025_1/tp3
